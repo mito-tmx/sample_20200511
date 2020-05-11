@@ -1,0 +1,20 @@
+﻿<repository
+id="14234654-d8c2-402d-9be0-018ce195bd8f"
+name="MyTest2Repository">
+	<codegen
+	classname="MyTest2Repository"
+	namespace="MyTest2">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="406b325b-2687-41e9-a4e6-45c76a215e84"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>
